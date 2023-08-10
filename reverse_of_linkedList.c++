@@ -24,9 +24,6 @@ void print(Node* &head){
  		node=node->next;
  	}
  	cout<<"NULL"<<endl;
- 	{
- 		
- 	};;
  }
 
 Node* reverse_print(Node* &head){
